@@ -1,0 +1,117 @@
+.container-fluid {
+    background-color: #000324;
+}
+
+a {
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+
+}
+
+#headerImg {
+    background-image: url(/assets/hotelMarkupAssets/header.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.overlay {
+    background-color: #000324;
+    position: absolute;
+    opacity: 80%;
+    height: 232px;
+    width: 945px;
+    top: 350px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    color: #E5FEFF;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 57px;
+
+}
+
+p {
+    color: #E5FEFF;
+    text-align: center;
+    font-size: 16px;
+}
+
+.hamster1 {
+    margin-top: 70px;
+    width: 369px;
+    height: 416px;
+    margin-left: 60px;
+
+}
+
+.container1 {
+    background-image: url(/assets/hotelMarkupAssets/bg2.jpg);
+    height: 683px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.packages {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 2%;
+    margin-right: 3%;
+
+}
+
+.bloomtxt {
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    margin-right: 30px;
+    margin-top: 5%;
+
+}
+
+.container5 {
+    background-image: url(/assets/hotelMarkupAssets/bg.jpg);
+    height: 548px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.container6 {
+    background-image: url(/assets/hotelMarkupAssets/hamsterreserve.jpg);
+    height: 548px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+.container7 {
+    background-color: #000324;
+}
+
+
+
+.container {
+    display: block;
+    margin-bottom: 40px;
+}
+
+.bgHam{
+    background-image: url(/assets/hotelMarkupAssets/hamsterreserve.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
